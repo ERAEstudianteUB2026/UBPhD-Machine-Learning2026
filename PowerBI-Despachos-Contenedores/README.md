@@ -25,5 +25,8 @@ Analizar el comportamiento de los despachos considerando variables como:
 
 El dashboard permite analizar los despachos mediante indicadores, gráficos, mapas y tablas de detalle.
 
-https://app.powerbi.com/view?r=eyJrIjoiOWUxZDVmNTEtMTljNi00ODBlLWIxYWItZjFlZDU5ZDQyOTlmIiwidCI6Ijc0YzBjMjUwLTFjNzctNDA1ZC05YjFlLTlhYzFmNTA4YWJlMyIsImMiOjR9
+## Dashboard interactivo
 
+El dashboard permite analizar los despachos mediante indicadores, gráficos, mapas y tablas de detalle.
+
+### 📊 [Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWUxZDVmNTEtMTljNi00ODBlLWIxYWItZjFlZDU5ZDQyOTlmIiwidCI6Ijc0YzBjMjUwLTFjNzctNDA1ZC05YjFlLTlhYzFmNTA4YWJlMyIsImMiOjR9)
